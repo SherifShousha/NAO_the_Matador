@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nao/group_b_final_project/devel/lib/python2.7/dist-packages",
+        "/home/nao/ros/hrs_group_b/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/home/nao/pynaoqi"
+    ]
+}

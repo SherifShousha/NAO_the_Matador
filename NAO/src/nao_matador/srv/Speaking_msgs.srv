@@ -1,0 +1,5 @@
+#CREATE request parameters
+string[] sentence
+--------------------------------
+#CREATE response parameters
+bool speaking

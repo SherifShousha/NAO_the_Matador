@@ -1,0 +1,7 @@
+#CREATE request parameters
+string[] action
+float32 iterations
+float32[] angles
+--------------------------------
+#CREATE response parameters
+bool moving

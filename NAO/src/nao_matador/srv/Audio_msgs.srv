@@ -1,0 +1,5 @@
+#CREATE request parameters
+string[] sound
+--------------------------------
+#CREATE response parameters
+bool playing

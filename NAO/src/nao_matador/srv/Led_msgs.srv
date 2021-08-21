@@ -1,0 +1,6 @@
+#CREATE request parameters
+string[] action
+float32 iterations
+--------------------------------
+#CREATE response parameters
+bool response
