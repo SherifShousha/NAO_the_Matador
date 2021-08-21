@@ -3,7 +3,7 @@ In this setup, both contenders are inside a ring drawn on the floor and the bull
 The NAO must track the movement of the bull, decipher its intention, juke when aproppiate and exclaim the outcome of every round.
 
 You can find the demo video of the final project hier:
-https://drive.google.com/file/d/1gqRFt0L-AS6ZP8H6Qs4cHQvhVNnuVhXQ/view?usp=sharing
+![Demo](https://drive.google.com/file/d/1gqRFt0L-AS6ZP8H6Qs4cHQvhVNnuVhXQ/view?usp=sharing)
 
 
 This is the main routine of every round:
